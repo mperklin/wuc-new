@@ -8,13 +8,15 @@ published: true
 
 
 
-<img src="/images/michael-perklin.png" alt="Michael Perklin" align="right">I am a cybersecurity expert who has worked for over a decade in the information security space. In the past I've held positions as a cyber investigator, a digital-forensic investigator, a reverse engineer, an application tester, and a computer programmer.
+<p><img src="/images/michael-perklin.png" alt="Michael Perklin" align="right">Michael is a cybersecurity expert who focuses on bitcoin, cryptocurrencies, and distributed ledger systems. Michael has worked for over a decade in the information security space, holding positions such as cyber investigator, digital-forensic investigator, reverse engineer, application tester, and computer programmer. Michael now applies this experience exclusively to bitcoin and related technologies through his security consultancy firm Bitcoinsultants.
+</p>
 <p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/J4x8Hz6_hq0" frameborder="0" allowfullscreen></iframe>
+</p>
 <p>
-C4 is a not-for-profit organization dedicated to standards and certifications in the cryptocurrency industry. We worked with many leaders in our industry to categorize the knowledge every bitcoin professional should have and wrote exam questions to test for that knowledge. The result was a heavily peer-reviewed exam that allows you to earn a professional certification: Certified Bitcoin Professional.
-<p>
-I am also a director of the Bitcoin Alliance of Canada, a non-profit organization that promotes, educates, and protects bitcoin in Canada. You may have seen video of me speaking to the Canadian Senate about bitcoin in the same hearings that brought Andreas M. Antonopoulos to Canada.
+Michael founded the CryptoCurrency Certification Consortium (C4), which is a not-for-profit organization dedicated to building and maintaining standards and certifications for the cryptocurrency industry. C4 collaborated with many leaders in the space to categorize the knowledge every bitcoin professional should have and drafted exam questions to accurately test for that knowledge. The result was a heavily peer-reviewed exam that allows anyone to earn a professional certification and become a Certified Bitcoin Professional (CBP).</p>
+<p>Michael also contributed heavily to the CryptoCurrency Security Standard (CCSS), the industry's first security standard which provides guidance and best practices for securing cryptocurrencies like bitcoin.</p>
+<p>Michael serves as a director of the Bitcoin Alliance of Canada, a non-profit organization that promotes, educates, and protects bitcoin in Canada. He has been called upon by the Canadian Senate's Standing Committee for Banking, Trade and Commerce where he testified to about Bitcoin's security.</p>
 ## Bitcoin articles by Michael Perklin
 <ul>
 <li><a href="">Why Bitcoin Matters</a></li>
